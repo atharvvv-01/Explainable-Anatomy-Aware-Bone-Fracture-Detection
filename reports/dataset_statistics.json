@@ -1,0 +1,29 @@
+{
+  "total_images": 3099,
+  "unique_images": 3085,
+  "fractured_count": 677,
+  "non_fractured_count": 2422,
+  "fracture_ratio_percent": 21.85,
+  "non_fracture_ratio_percent": 78.15,
+  "imbalance_ratio": "1:3.58 (Fractured:Non-fractured)",
+  "format_distribution": {
+    "PNG": 1861,
+    "JPEG": 1238
+  },
+  "mode_distribution": {
+    "RGBA": 1861,
+    "RGB": 1149,
+    "L": 89
+  },
+  "dimensions": {
+    "min_width": 373,
+    "max_width": 2880,
+    "mean_width": 839.36,
+    "median_width": 1017.0,
+    "min_height": 373,
+    "max_height": 2880,
+    "mean_height": 780.96,
+    "median_height": 920.0,
+    "mean_aspect_ratio": 1.04
+  }
+}

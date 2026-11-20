@@ -1,0 +1,9 @@
+names:
+  0: Arm
+  1: Leg
+  2: Hand
+  3: Shoulder
+  4: Spine
+path: D:/Anatomy aware preprocesing on effnetb3/data/annotations/yolo
+train: images/train
+val: images/val

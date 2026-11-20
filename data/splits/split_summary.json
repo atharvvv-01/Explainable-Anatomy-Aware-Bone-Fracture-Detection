@@ -1,0 +1,28 @@
+{
+  "random_state": 42,
+  "total_records": 3099,
+  "train_count": 2173,
+  "val_count": 463,
+  "test_count": 463,
+  "train_distribution": {
+    "Non-fractured": 1696,
+    "Fractured": 477
+  },
+  "val_distribution": {
+    "Non-fractured": 363,
+    "Fractured": 100
+  },
+  "test_distribution": {
+    "Non-fractured": 363,
+    "Fractured": 100
+  },
+  "duplicate_records_in_train": 14,
+  "duplicate_records_in_val": 0,
+  "duplicate_records_in_test": 0,
+  "files": {
+    "train_csv": "data/splits\\train.csv",
+    "val_csv": "data/splits\\val.csv",
+    "test_csv": "data/splits\\test.csv",
+    "catalog_csv": "data/splits\\dataset_catalog.csv"
+  }
+}

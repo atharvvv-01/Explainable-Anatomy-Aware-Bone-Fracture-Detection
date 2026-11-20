@@ -1,0 +1,8 @@
+{
+  "threshold": 0.29,
+  "fracture_f1": 0.6455,
+  "fracture_recall": 0.61,
+  "fracture_precision": 0.6854,
+  "balanced_accuracy": 0.7664,
+  "false_negative_rate": 0.39
+}

@@ -1,0 +1,41 @@
+# Class Definitions for Anatomy-Guided Bone Fracture Detection
+
+fracture_classes:
+  0: "Non-fractured"
+  1: "Fractured"
+
+anatomical_classes:
+  0: "Arm"
+  1: "Leg"
+  2: "Hand"
+  3: "Shoulder"
+  4: "Spine"
+
+# Mapping aliases and anatomical subdivisions
+anatomy_mapping:
+  arm: "Arm"
+  forearm: "Arm"
+  humerus: "Arm"
+  radius: "Arm"
+  ulna: "Arm"
+  elbow: "Arm"
+  leg: "Leg"
+  femur: "Leg"
+  tibia: "Leg"
+  fibula: "Leg"
+  knee: "Leg"
+  ankle: "Leg"
+  foot: "Leg"
+  hand: "Hand"
+  wrist: "Hand"
+  finger: "Hand"
+  carpals: "Hand"
+  metacarpal: "Hand"
+  shoulder: "Shoulder"
+  clavicle: "Shoulder"
+  scapula: "Shoulder"
+  spine: "Spine"
+  vertebra: "Spine"
+  cervical: "Spine"
+  lumbar: "Spine"
+  thoracic: "Spine"

@@ -1,0 +1,464 @@
+filepath,true_label,fracture_probability,predicted_label
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (285).jpg,1,0.8471562,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 113957_cropped.png,0,0.49401897,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 145941_cropped.png,0,0.09328104,0
+Dataset\Dataset\Fracture\fabulla_cropped.png,1,0.5125719,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (720).jpg,0,0.41882002,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (422).jpg,0,0.5313406,1
+Dataset\Dataset\Fracture\Screenshot 2026-05-25 122858_cropped.png,1,0.24846248,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 103514_cropped.png,0,0.32512373,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 121144_cropped.png,0,0.33925444,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (321).jpg,0,0.3728318,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (162).jpg,0,0.4120003,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 113026_cropped.png,0,0.21815199,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (186).jpg,0,0.54649305,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 152438_cropped.png,0,0.12763344,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 132254_cropped.png,0,0.11726383,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (762).jpg,0,0.65212494,1
+Dataset\Dataset\Fracture\Screenshot 2026-05-25 124942_cropped.png,1,0.43612555,0
+Dataset\Dataset\Fracture\Screenshot 2026-09-28 133620_cropped.png,1,0.6540773,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (5).jpg,0,0.22918777,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 153140_cropped.png,0,0.34019735,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 124202_cropped.png,0,0.1277673,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 121311_cropped.png,1,0.54232836,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 130414_cropped.png,0,0.035360828,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (148).jpg,0,0.429324,0
+Dataset\Dataset\Fracture\Screenshot 2026-09-28 153654_cropped.png,1,0.27244806,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 122656_cropped.png,0,0.11500823,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-25 120505_cropped.png,1,0.30433878,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 125537_cropped.png,0,0.18110593,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 141656_cropped.png,0,0.21559203,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (867).jpg,0,0.41840613,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 120133_cropped.png,0,0.24006371,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (366).jpg,0,0.30033755,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 132608_cropped.png,0,0.1361052,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (796).jpg,0,0.25807273,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (178).jpg,1,0.86545,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 134015_cropped.png,0,0.48036212,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 125016_cropped.png,0,0.11679015,0
+Dataset\Dataset\Fracture\Screenshot 2026-09-06 113618_cropped.png,1,0.5985673,1
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (2).jpg,1,0.80325437,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (506).jpg,0,0.19451067,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-21 115046_cropped.png,0,0.39759877,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (779).jpg,0,0.38026303,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (20).jpg,0,0.26996508,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (857).jpg,0,0.38571286,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 145806_cropped.png,0,0.44008103,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-25 150910_cropped.png,1,0.6468755,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (458).jpg,0,0.35518113,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-25 143453_cropped.png,1,0.6289184,1
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (255).jpg,1,0.593389,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 144140_cropped.png,0,0.11525916,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (706).jpg,0,0.16533077,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 110024_cropped.png,0,0.45274392,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (753).jpg,0,0.34319058,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 125914_cropped.png,0,0.5935192,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (623).jpg,0,0.16446358,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 142449_cropped.png,0,0.1609788,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-21 120756_cropped.png,0,0.36247995,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (853).jpg,0,0.5266932,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (793).jpg,0,0.47835383,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 143851_cropped.png,0,0.29658768,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-25 151102_cropped.png,1,0.5418406,1
+Dataset\Dataset\Fracture\Screenshot 2026-05-29 122509_cropped.png,1,0.6069633,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 115114_cropped.png,0,0.67164844,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (744).jpg,0,0.3220058,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 143217_cropped.png,0,0.7111151,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 102411_cropped.png,0,0.40649906,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-29 104114_cropped.png,1,0.37091547,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 122632_cropped.png,0,0.67446464,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 125052_cropped.png,0,0.082827255,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (4).jpg,0,0.14593408,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (172).jpg,1,0.67479116,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (888).jpg,0,0.15938301,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (121).jpg,1,0.6791526,1
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (98).jpg,1,0.33766723,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 124332_cropped.png,0,0.6557712,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 114309_cropped.png,0,0.11428,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 145529_cropped.png,0,0.07492814,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-21 121258_cropped.png,1,0.28508946,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (192).jpg,0,0.19102712,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (605).jpg,0,0.28338018,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 140644_cropped.png,0,0.29336062,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (210).jpg,1,0.52428365,1
+Dataset\Dataset\Fracture\Screenshot 2026-05-29 115513_cropped.png,1,0.41027048,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-21 113723_cropped.png,0,0.48069376,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 100656_cropped.png,0,0.1667347,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (154).jpg,1,0.60901916,1
+Dataset\Dataset\Fracture\Screenshot 2026-05-25 150320_cropped.png,1,0.29147267,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (359).jpg,0,0.32866547,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (210).jpg,0,0.18863054,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 143714_cropped.png,0,0.30572298,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 122702_cropped.png,0,0.26251438,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (516).jpg,0,0.29586235,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (489).jpg,0,0.32091877,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 102159_cropped.png,0,0.065265164,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (31).jpg,1,0.75505877,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 124558_cropped.png,0,0.2318678,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 130135_cropped.png,0,0.2506152,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 125307_cropped.png,0,0.09245454,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-21 145340_cropped.png,1,0.7085418,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 142825_cropped.png,0,0.100128405,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (759).jpg,0,0.23438421,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 121753_cropped.png,0,0.43751377,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 130401_cropped.png,1,0.32101628,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (162).jpg,1,0.59805703,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 120317_cropped.png,0,0.12132637,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (535).jpg,0,0.4227616,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (32).jpg,1,0.63752,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (798).jpg,0,0.3926007,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 150444_cropped.png,0,0.14093585,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (667).jpg,0,0.38798004,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 120439_cropped.png,0,0.06335404,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (624).jpg,0,0.13632253,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 115749_cropped.png,0,0.251011,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (672).jpg,0,0.27270198,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-21 142134_cropped.png,1,0.607356,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 143720_cropped.png,0,0.22347987,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 132634_cropped.png,0,0.2871952,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (526).jpg,0,0.37660795,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (284).jpg,0,0.34407225,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-25 124500_cropped.png,1,0.718337,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (552).jpg,0,0.23409408,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (461).jpg,0,0.22765385,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-21 143858_cropped.png,0,0.07511905,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 152825_cropped.png,0,0.28445482,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 130027_cropped.png,0,0.19933975,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 143854_cropped.png,0,0.5392665,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (333).jpg,0,0.23023033,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 144814_cropped.png,0,0.10201727,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 140620_cropped.png,0,0.51688176,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (881).jpg,0,0.13380843,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (183).jpg,0,0.35181466,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 141826_cropped.png,0,0.5072845,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 152859_cropped.png,0,0.13416378,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 143042_cropped.png,0,0.27449813,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (723).jpg,0,0.39930212,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (405).jpg,0,0.39614463,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 124058_cropped.png,0,0.08471746,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (806).jpg,0,0.22105353,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-21 141445_cropped.png,0,0.090572685,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 124238_cropped.png,0,0.09707092,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 141859_cropped.png,0,0.22975181,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 130908_cropped.png,0,0.18110593,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (462).jpg,0,0.3527766,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (495).jpg,0,0.4242864,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (704).jpg,0,0.3324002,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 152940_cropped.png,0,0.28119263,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 150621_cropped.png,0,0.2452207,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (62).jpg,1,0.60568416,1
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (46).jpg,1,0.8311719,1
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (73).jpg,1,0.70357704,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (528).jpg,0,0.57397217,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (212).jpg,0,0.20979647,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 103741_cropped.png,0,0.3503614,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (525).jpg,0,0.47438443,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 135155_cropped.png,0,0.45148727,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (276).jpg,1,0.5688989,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (711).jpg,0,0.18383977,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-25 151043_cropped.png,1,0.7614858,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-21 105751_cropped.png,0,0.11636725,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-29 101047_cropped.png,1,0.59637266,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 142614_cropped.png,0,0.3843559,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (757).jpg,0,0.3180537,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (707).jpg,0,0.45725986,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (306).jpg,1,0.5999561,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 131823_cropped.png,0,0.29440573,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 111244_cropped.png,0,0.1254116,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (167).jpg,1,0.41172692,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 125546_cropped.png,0,0.25726333,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 151846_cropped.png,0,0.265219,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (263).jpg,0,0.4309805,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-29 120615_cropped.png,1,0.61522937,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (648).jpg,0,0.40868422,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 110157_cropped.png,0,0.08797155,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 130104_cropped.png,0,0.21762554,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (54).jpg,1,0.2324128,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (85).jpg,0,0.53677166,1
+Dataset\Dataset\Fracture\Screenshot 2026-05-25 143528_cropped.png,1,0.55621296,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 145621_cropped.png,0,0.18593678,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 140640_cropped.png,0,0.21950977,0
+Dataset\Dataset\Fracture\Screenshot 2026-09-06 113126_cropped.png,1,0.35624138,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 122241_cropped.png,0,0.0637195,0
+Dataset\Dataset\Fracture\Screenshot 2203-05-19 12131112_cropped (27).jpg,1,0.5366727,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 103015_cropped.png,0,0.11349638,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 122128_cropped.png,0,0.09718281,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (150).jpg,0,0.3493037,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 125802_cropped.png,0,0.16203545,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (120).jpg,0,0.23701504,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 123106_cropped.png,0,0.3332352,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 121734_cropped.png,0,0.27131978,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 103504_cropped.png,0,0.11661539,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 105036_cropped.png,0,0.54866654,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 125139_cropped.png,0,0.07459309,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (262).jpg,1,0.19792248,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-25 143447_cropped.png,1,0.7255835,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 124604_cropped.png,0,0.25488323,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 104235_cropped.png,0,0.4271623,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 101438_cropped.png,0,0.30051354,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (675).jpg,0,0.29954106,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 144802_cropped.png,0,0.2715688,0
+Dataset\Dataset\Fracture\Screenshot 2026-09-06 110326_cropped.png,1,0.79141337,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 151532_cropped.png,0,0.37780723,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 143334_cropped.png,0,0.4769208,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (728).jpg,0,0.2956891,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 122137_cropped.png,0,0.14509425,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (500).jpg,0,0.64086825,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 100952_cropped.png,0,0.060577583,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (887).jpg,0,0.11606865,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 114235_cropped.png,0,0.23748493,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 142809_cropped.png,0,0.03950218,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 100738_cropped.png,0,0.25785542,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 142055_cropped.png,0,0.17453296,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (260).jpg,1,0.59841055,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 122555_cropped.png,0,0.24376577,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (607).jpg,0,0.38519114,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 152337_cropped.png,0,0.4888692,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (157).jpg,0,0.33893695,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 111941_cropped.png,0,0.5721863,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 153047_cropped.png,0,0.52633655,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (713).jpg,0,0.292897,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (204).jpg,0,0.5059587,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 143019_cropped.png,0,0.044804394,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (638).jpg,0,0.20280133,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 124133_cropped.png,0,0.2212108,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 123913_cropped.png,0,0.040603895,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 153921_cropped.png,0,0.5636497,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 101921_cropped.png,0,0.5297402,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 144642_cropped.png,0,0.17808996,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (158).jpg,0,0.5068089,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (137).jpg,1,0.799654,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 115647_cropped.png,0,0.14456962,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 135600_cropped.png,0,0.1070667,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 122142_cropped.png,0,0.06963262,0
+Dataset\Dataset\Fracture\Screenshot 2026-09-28 145131_cropped.png,1,0.42603323,0
+Dataset\Dataset\Fracture\Screenshot 2026-09-28 150150_cropped.png,1,0.41102114,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 145844_cropped.png,0,0.16290994,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 100746_cropped.png,0,0.24158344,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (420).jpg,0,0.48072362,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (304).jpg,0,0.308055,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 125235_cropped.png,0,0.15198892,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (18).jpg,1,0.45653164,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (144).jpg,0,0.5197465,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 150917_cropped.png,0,0.198544,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (382).jpg,0,0.43729126,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-21 121810_cropped.png,1,0.5574148,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 110301_cropped.png,0,0.19138896,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 123233_cropped.png,0,0.14231892,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (430).jpg,0,0.46155506,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (233).jpg,1,0.6565723,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (689).jpg,0,0.68735343,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 143252_cropped.png,0,0.080679014,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 104032_cropped.png,0,0.25671905,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 122713_cropped.png,0,0.1318093,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (71).jpg,0,0.37340322,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-25 150551_cropped.png,1,0.76509017,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 151850_cropped.png,0,0.23180053,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 130020_cropped.png,0,0.15268393,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (220).jpg,0,0.38428923,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-29 100433_cropped.png,1,0.25365397,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (283).jpg,1,0.71212673,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 122706_cropped.png,0,0.19738922,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-25 104715_cropped.png,1,0.24362494,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-25 123017_cropped.png,1,0.6706278,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 124038_cropped.png,0,0.16300389,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 114447_cropped.png,0,0.3363125,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 102848_cropped.png,0,0.21999104,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 110019_cropped.png,0,0.47127727,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 102039_cropped.png,0,0.07428353,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (35).jpg,0,0.5891504,1
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (288).jpg,1,0.44534388,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (40).jpg,1,0.19500548,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (747).jpg,0,0.20626189,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 121813_cropped.png,0,0.3120582,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (389).jpg,0,0.15792282,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (300).jpg,0,0.22002245,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (237).jpg,0,0.36067873,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 135151_cropped.png,0,0.48656452,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (171).jpg,0,0.59419143,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (326).jpg,0,0.77962184,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (75).jpg,0,0.43619037,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 133747_cropped.png,0,0.4843512,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (30).jpg,1,0.597124,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (669).jpg,0,0.36328557,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (760).jpg,0,0.16119961,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 110358_cropped.png,0,0.40659994,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 130751_cropped.png,0,0.3444087,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-25 150110_cropped.png,1,0.44974062,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 120732_cropped.png,0,0.35005134,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (177).jpg,0,0.31522778,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (521).jpg,0,0.6254411,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 144506_cropped.png,0,0.07645105,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (242).jpg,0,0.17273048,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 121803_cropped.png,0,0.17454806,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (849).jpg,0,0.3020349,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 144726_cropped.png,0,0.16629222,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (6).jpg,1,0.5076438,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-21 143840_cropped.png,0,0.11878816,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 143021_cropped.png,0,0.5186494,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 130909_cropped.png,0,0.076793395,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 124331_cropped.png,0,0.039266992,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 145428_cropped.png,0,0.17429459,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (109).jpg,1,0.76461786,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 124047_cropped.png,0,0.17106427,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 141223_cropped.png,0,0.1955641,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-21 145617_cropped.png,1,0.66536415,1
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (79).jpg,1,0.72490954,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 121506_cropped.png,0,0.095447026,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (855).jpg,0,0.39427197,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (57).jpg,1,0.2886517,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 151327_cropped.png,0,0.5032042,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 144546_cropped.png,0,0.34798995,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 150221_cropped.png,0,0.119500905,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (176).jpg,1,0.33836672,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (20).jpg,1,0.8272697,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 111844_cropped.png,0,0.3183807,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 142520_cropped.png,0,0.2550336,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 115759_cropped.png,0,0.55355597,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 122631_cropped.png,0,0.24541633,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 143612_cropped.png,0,0.50316906,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 115231_cropped.png,0,0.22056562,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 145033_cropped.png,0,0.07393536,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (524).jpg,0,0.3627441,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 110048_cropped.png,0,0.2141776,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (189).jpg,0,0.32235765,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-25 121054_cropped.png,1,0.60565346,1
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (205).jpg,1,0.69156265,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (226).jpg,0,0.34128112,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 145817_cropped.png,0,0.17932834,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (473).jpg,0,0.47088462,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 132021_cropped.png,0,0.40835634,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (446).jpg,0,0.6396295,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 144538_cropped.png,0,0.2058569,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 103958_cropped.png,0,0.23582615,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 145944_cropped.png,0,0.30671784,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 142919_cropped.png,0,0.15064646,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (573).jpg,0,0.10944461,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (645).jpg,0,0.67890024,1
+Dataset\Dataset\Fracture\Screenshot 2026-05-21 114849_cropped.png,1,0.40023744,0
+Dataset\Dataset\Fracture\Screenshot 2026-09-06 113132_cropped.png,1,0.24864647,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-25 125044_cropped.png,1,0.5644413,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (701).jpg,0,0.2998488,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (395).jpg,0,0.38915396,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-21 145512_cropped.png,1,0.5923431,1
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (35).jpg,1,0.64589435,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (445).jpg,0,0.3613973,0
+Dataset\Dataset\Fracture\Screenshot 2026-09-06 113443_cropped.png,1,0.50726146,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 131922_cropped.png,0,0.24450009,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 125604_cropped.png,0,0.2167936,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 111947_cropped.png,0,0.28187606,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 141512_cropped.png,0,0.07616431,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (442).jpg,0,0.4685345,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 141447_cropped.png,0,0.5716219,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-21 124506_cropped.png,0,0.103276506,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 110209_cropped.png,0,0.18279687,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (31).jpg,0,0.4818632,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 112355_cropped.png,0,0.14875364,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 124120_cropped.png,1,0.825491,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123740_cropped.png,0,0.53279704,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 142437_cropped.png,0,0.19183321,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (138).jpg,1,0.16493016,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (275).jpg,1,0.6584236,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 152113_cropped.png,0,0.28424487,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-25 150115_cropped.png,1,0.53714657,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-21 125331_cropped.png,0,0.07335453,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-21 111141_cropped.png,0,0.23845127,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 145622_cropped.png,0,0.38915825,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 111912_cropped.png,0,0.23845518,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-21 141921_cropped.png,1,0.6148551,1
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (179).jpg,1,0.69406956,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 142516_cropped.png,0,0.42553702,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (934).jpg,0,0.45185497,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (429).jpg,0,0.26208088,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-21 112416_cropped.png,0,0.22365308,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 145543_cropped.png,0,0.13227993,0
+Dataset\Dataset\Fracture\Screenshot 2026-09-28 144947_cropped.png,1,0.64989656,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 135515_cropped.png,0,0.14899217,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (829).jpg,0,0.2886314,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (491).jpg,0,0.49441338,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (59).jpg,0,0.31709483,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 141252_cropped.png,0,0.34517276,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 145730_cropped.png,0,0.40566763,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (4).jpg,1,0.79752624,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (737).jpg,0,0.23202693,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (835).jpg,0,0.37746412,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 143914_cropped.png,0,0.0794966,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-21 104358_cropped.png,0,0.21643658,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (349).jpg,0,0.18439147,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 142645_cropped.png,0,0.1498052,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-21 140828_cropped.png,0,0.2950571,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 135803_cropped.png,0,0.20047526,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-21 105940_cropped.png,1,0.18041864,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (749).jpg,0,0.093795456,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (235).jpg,1,0.37503958,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (297).jpg,0,0.22835003,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 144349_cropped.png,0,0.1571832,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 144844_cropped.png,0,0.20604314,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (909).jpg,0,0.3563589,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 152908_cropped.png,0,0.12875837,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (810).jpg,0,0.3691358,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 135228_cropped.png,0,0.4584054,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 140411_cropped.png,0,0.13419113,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (391).jpg,0,0.43741855,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (91).jpg,0,0.68996984,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 123514_cropped.png,0,0.30507496,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 104350_cropped.png,0,0.55240935,1
+Dataset\Dataset\Fracture\Screenshot 2026-05-25 112104_cropped.png,1,0.8969402,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 151335_cropped.png,0,0.36772135,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (293).jpg,0,0.36195642,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 132412_cropped.png,0,0.47254285,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 153851_cropped.png,0,0.14825778,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-21 145505_cropped.png,1,0.75897807,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 131501_cropped.png,0,0.20358498,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (832).jpg,0,0.45976064,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (447).jpg,0,0.46407357,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 143150_cropped.png,0,0.52644974,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 114410_cropped.png,0,0.4275853,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (804).jpg,0,0.24887696,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-29 105817_cropped.png,1,0.7729118,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (915).jpg,0,0.14480242,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 114150_cropped.png,0,0.063101254,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (274).jpg,0,0.2716354,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-21 125519_cropped.png,0,0.57079655,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 124615_cropped.png,0,0.17236371,0
+Dataset\Dataset\Fracture\Screenshot 2026-09-28 142902_cropped.png,1,0.70108855,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 125316_cropped.png,0,0.519608,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (702).jpg,0,0.23433125,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (541).jpg,0,0.31814834,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 124225_cropped.png,0,0.4489067,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 104954_cropped.png,0,0.50198513,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 115507_cropped.png,1,0.73858607,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 132501_cropped.png,0,0.29077765,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (230).jpg,1,0.91165185,1
+Dataset\Dataset\Fracture\Screenshot 2026-09-06 124814_cropped.png,1,0.36465955,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (750).jpg,0,0.10810933,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (730).jpg,0,0.5776918,1
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (553).jpg,0,0.48932967,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-21 125136_cropped.png,0,0.19189101,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 114042_cropped.png,0,0.6014779,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 130253_cropped.png,0,0.05377346,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (286).jpg,1,0.40013814,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-21 110930_cropped.png,0,0.11325579,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123355_cropped (441).jpg,0,0.23806271,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 122135_cropped.png,0,0.08123868,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123238_cropped.png,0,0.43765122,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 120235_cropped.png,0,0.17962936,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (102).jpg,1,0.58327264,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 152408_cropped.png,0,0.42683393,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 135317_cropped.png,0,0.20561817,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 143245_cropped.png,0,0.2110028,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-21 140837_cropped.png,0,0.411354,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 145015_cropped.png,0,0.3105042,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 110308_cropped.png,0,0.15560694,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 115052_cropped.png,0,0.17933898,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (142).jpg,1,0.44797698,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-06 125238_cropped.png,0,0.1354147,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-29 113806_cropped.png,0,0.18624496,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 123611_cropped.png,0,0.34253925,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-19 123501_cropped.png,0,0.47524375,0
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 132004_cropped.png,0,0.25744107,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 143733_cropped.png,0,0.1082619,0
+Dataset\Dataset\Fracture\Screenshot 2026-05-19 12131122_cropped (234).jpg,1,0.5119437,1
+Dataset\Dataset\Non fracture\Screenshot 2026-09-28 135840_cropped.png,0,0.18468854,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 122210_cropped.png,0,0.04416981,0
+Dataset\Dataset\Non fracture\Screenshot 2026-05-25 121220_cropped.png,0,0.33624005,0

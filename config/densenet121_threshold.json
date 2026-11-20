@@ -1,0 +1,8 @@
+{
+  "experiment": "DenseNet-121 Medical Radiology Classifier",
+  "threshold": 0.46,
+  "train_accuracy": 0.9839,
+  "val_accuracy": 0.9374,
+  "test_accuracy": 0.9374,
+  "roc_auc": 0.9594
+}

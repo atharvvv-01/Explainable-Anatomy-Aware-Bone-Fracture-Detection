@@ -1,0 +1,67 @@
+# System and Experiment Configuration
+
+project:
+  name: "Anatomy-Guided Bone Fracture Detection"
+  seed: 42
+  device: "auto"  # auto, cuda, cpu
+
+paths:
+  raw_data_dir: "Dataset/Dataset"
+  splits_dir: "data/splits"
+  annotations_dir: "data/annotations"
+  processed_dir: "data/processed"
+  checkpoints_dir: "models/checkpoints"
+  detector_dir: "models/detector"
+  classifier_dir: "models/classifier"
+  results_dir: "results"
+  reports_dir: "reports"
+
+data:
+  image_size: [300, 300]
+  clahe_clip_limit: 2.0
+  clahe_tile_grid_size: [8, 8]
+  use_clahe: false  # Subtle contrast enhancement toggle
+  normalize_mean: [0.485, 0.456, 0.406]
+  normalize_std: [0.229, 0.224, 0.225]
+  train_split: 0.70
+  val_split: 0.15
+  test_split: 0.15
+  batch_size: 16
+  num_workers: 2
+
+detector:
+  architecture: "yolov8n.pt"
+  conf_threshold: 0.35
+  iou_threshold: 0.45
+  crop_padding: 0.12  # 12% padding around detected bounding box
+  target_size: 300
+  epochs: 25
+  batch_size: 16
+
+classifier:
+  backbone: "efficientnet_b3"
+  pretrained: true
+  dropout: 0.3
+  target_size: 300
+  phase1:
+    epochs: 10
+    lr: 0.001
+    weight_decay: 0.0001
+  phase2:
+    epochs: 15
+    lr: 0.0001
+    weight_decay: 0.0001
+    unfreeze_layers: 4  # Unfreeze top feature blocks
+  early_stopping_patience: 5
+
+imbalance:
+  method: "class_weighted"  # class_weighted, focal_loss, weighted_sampler, none
+  focal_loss_gamma: 2.0
+  focal_loss_alpha: 0.75  # Higher weight on minority (Fractured) class
+
+threshold_tuning:
+  metric: "f1"  # Target metric for threshold selection on validation set
+  default_threshold: 0.50
+
+explainability:
+  target_layer: "features.7"  # High-level conv layer in EfficientNetB3

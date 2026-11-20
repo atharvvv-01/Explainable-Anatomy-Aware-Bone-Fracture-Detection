@@ -1,0 +1,18 @@
+{
+  "model": "DenseNet-121 Medical Radiology Classifier",
+  "threshold": 0.46,
+  "accuracy": 0.9374,
+  "fracture_recall": 0.73,
+  "fracture_precision": 0.9733,
+  "fracture_f1": 0.8343,
+  "macro_f1": 0.8978,
+  "specificity": 0.9945,
+  "roc_auc": 0.9594,
+  "pr_auc": 0.9135,
+  "confusion_matrix": {
+    "true_negatives": 361,
+    "false_positives": 2,
+    "false_negatives": 27,
+    "true_positives": 73
+  }
+}

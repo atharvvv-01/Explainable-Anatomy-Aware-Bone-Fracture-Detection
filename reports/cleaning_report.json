@@ -1,0 +1,2068 @@
+{
+  "total_scanned": 3156,
+  "valid_images": 3099,
+  "corrupted_count": 57,
+  "exact_duplicates_count": 15,
+  "near_duplicates_count": 280,
+  "corrupted_files": [
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (1).jpg",
+      "error": "image file is truncated (40 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (10).jpg",
+      "error": "image file is truncated (13 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (100).jpg",
+      "error": "image file is truncated (3 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (104).jpg",
+      "error": "image file is truncated (17 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (105).jpg",
+      "error": "image file is truncated (15 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (123).jpg",
+      "error": "image file is truncated (20 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (124).jpg",
+      "error": "image file is truncated (22 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (125).jpg",
+      "error": "image file is truncated (14 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (13).jpg",
+      "error": "image file is truncated (22 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (14).jpg",
+      "error": "image file is truncated (40 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (15).jpg",
+      "error": "image file is truncated (67 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (16).jpg",
+      "error": "image file is truncated (20 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (17).jpg",
+      "error": "image file is truncated (66 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (18).jpg",
+      "error": "image file is truncated (0 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (19).jpg",
+      "error": "image file is truncated (7 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (21).jpg",
+      "error": "image file is truncated (24 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (25).jpg",
+      "error": "image file is truncated (8 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (27).jpg",
+      "error": "image file is truncated (24 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (29).jpg",
+      "error": "image file is truncated (29 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (30).jpg",
+      "error": "image file is truncated (5 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (33).jpg",
+      "error": "image file is truncated (9 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (36).jpg",
+      "error": "image file is truncated (16 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (38).jpg",
+      "error": "image file is truncated (10 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (44).jpg",
+      "error": "image file is truncated (23 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (45).jpg",
+      "error": "image file is truncated (30 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (46).jpg",
+      "error": "image file is truncated (17 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (52).jpg",
+      "error": "image file is truncated (19 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (53).jpg",
+      "error": "image file is truncated (33 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (54).jpg",
+      "error": "image file is truncated (22 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (55).jpg",
+      "error": "image file is truncated (18 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (56).jpg",
+      "error": "image file is truncated (8 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (6).jpg",
+      "error": "image file is truncated (46 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (62).jpg",
+      "error": "image file is truncated (14 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (63).jpg",
+      "error": "image file is truncated (11 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (65).jpg",
+      "error": "image file is truncated (0 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (66).jpg",
+      "error": "image file is truncated (4 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (68).jpg",
+      "error": "image file is truncated (34 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (74).jpg",
+      "error": "image file is truncated (5 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (77).jpg",
+      "error": "image file is truncated (6 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (78).jpg",
+      "error": "image file is truncated (8 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (79).jpg",
+      "error": "image file is truncated (40 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (8).jpg",
+      "error": "image file is truncated (1 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (80).jpg",
+      "error": "image file is truncated (26 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (81).jpg",
+      "error": "image file is truncated (17 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (82).jpg",
+      "error": "image file is truncated (6 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (83).jpg",
+      "error": "image file is truncated (8 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (84).jpg",
+      "error": "image file is truncated (1 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (86).jpg",
+      "error": "image file is truncated (32 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (87).jpg",
+      "error": "image file is truncated (10 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (88).jpg",
+      "error": "image file is truncated (10 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (9).jpg",
+      "error": "image file is truncated (54 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (90).jpg",
+      "error": "image file is truncated (14 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (92).jpg",
+      "error": "image file is truncated (41 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (93).jpg",
+      "error": "image file is truncated (3 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (95).jpg",
+      "error": "image file is truncated (0 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (96).jpg",
+      "error": "image file is truncated (24 bytes not processed)",
+      "class": "Non-fractured"
+    },
+    {
+      "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (98).jpg",
+      "error": "image file is truncated (5 bytes not processed)",
+      "class": "Non-fractured"
+    }
+  ],
+  "exact_duplicates": [
+    {
+      "duplicate_file": "Dataset\\Dataset\\Fracture\\Screenshot 2203-05-19 12131112_cropped (1).jpg",
+      "original_file": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (294).jpg",
+      "class": "Fractured",
+      "sha256": "fba422cfffbbaa8b9675f719122b5ec052d813d780b30174236682e607e03a46"
+    },
+    {
+      "duplicate_file": "Dataset\\Dataset\\Fracture\\Screenshot 2203-05-19 12131112_cropped (12).jpg",
+      "original_file": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (296).jpg",
+      "class": "Fractured",
+      "sha256": "bcb6ad0404fee10b7e3fe13de25d032199720e5db2a34c62534fed2eccc19c94"
+    },
+    {
+      "duplicate_file": "Dataset\\Dataset\\Fracture\\Screenshot 2203-05-19 12131112_cropped (13).jpg",
+      "original_file": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (297).jpg",
+      "class": "Fractured",
+      "sha256": "97ad78c43216d9edf0498f3584fea1d93ec76e4ef745e7c9e9622bb53d265498"
+    },
+    {
+      "duplicate_file": "Dataset\\Dataset\\Fracture\\Screenshot 2203-05-19 12131112_cropped (14).jpg",
+      "original_file": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (298).jpg",
+      "class": "Fractured",
+      "sha256": "3c66c0702d33f1c2fe8cc7a5b534a5d6d5a744bd2dc3a4d6524fd5a91998af7b"
+    },
+    {
+      "duplicate_file": "Dataset\\Dataset\\Fracture\\Screenshot 2203-05-19 12131112_cropped (24).jpg",
+      "original_file": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (299).jpg",
+      "class": "Fractured",
+      "sha256": "88ab56c062542e2aa8630465ad8880fb0b7f6ad27f43483991a821ba671ab1cb"
+    },
+    {
+      "duplicate_file": "Dataset\\Dataset\\Fracture\\Screenshot 2203-05-19 12131112_cropped (29).jpg",
+      "original_file": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (300).jpg",
+      "class": "Fractured",
+      "sha256": "67cf704c781ae21c532e19a968be35fca0a2af9ff7966d289a0e61eec1a4d55a"
+    },
+    {
+      "duplicate_file": "Dataset\\Dataset\\Fracture\\Screenshot 2203-05-19 12131112_cropped (32).jpg",
+      "original_file": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (162).jpg",
+      "class": "Fractured",
+      "sha256": "e62067d2c3697ffde37c6380423a88383e245202b4a9111b6f6cc70d9168a88c"
+    },
+    {
+      "duplicate_file": "Dataset\\Dataset\\Fracture\\Screenshot 2203-05-19 12131112_cropped (39).jpg",
+      "original_file": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (301).jpg",
+      "class": "Fractured",
+      "sha256": "6eba0b3978a1ab70f881baa0e43d69f81be3784c015f16365cee23772588b080"
+    },
+    {
+      "duplicate_file": "Dataset\\Dataset\\Fracture\\Screenshot 2203-05-19 12131112_cropped (40).jpg",
+      "original_file": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (302).jpg",
+      "class": "Fractured",
+      "sha256": "bcc0d0ef843c70ecc9fc5be2b5969b5a831996f8c48cda43e192505f9deb2c0d"
+    },
+    {
+      "duplicate_file": "Dataset\\Dataset\\Fracture\\Screenshot 2203-05-19 12131112_cropped (7).jpg",
+      "original_file": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (295).jpg",
+      "class": "Fractured",
+      "sha256": "e1e49e4747e7a5c98341402aa772dfb637eed6fa40094b5045f8171855546193"
+    },
+    {
+      "duplicate_file": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (14).jpg",
+      "original_file": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (1).jpg",
+      "class": "Non-fractured",
+      "sha256": "bd5323bd67721ecbe7302ffa720a214bca34c35ff71e6e13286873731b205c55"
+    },
+    {
+      "duplicate_file": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 130721_cropped.png",
+      "original_file": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 130714_cropped.png",
+      "class": "Non-fractured",
+      "sha256": "5723936c98c23a57cddff4048f7af64e42421f3b998974ff936581329a6b178a"
+    },
+    {
+      "duplicate_file": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 130817_cropped.png",
+      "original_file": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 125346_cropped.png",
+      "class": "Non-fractured",
+      "sha256": "b38bd4522a23e952f63979aa95c8df1701b1644b4a5d8812499729091ea9ec5f"
+    },
+    {
+      "duplicate_file": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 130827_cropped.png",
+      "original_file": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 125355_cropped.png",
+      "class": "Non-fractured",
+      "sha256": "5b52a100d5f9ec0813b77c020b735d9a8c568a6b7739a56eb71dae6ff2035cc5"
+    },
+    {
+      "duplicate_file": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 130915_cropped.png",
+      "original_file": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 125546_cropped.png",
+      "class": "Non-fractured",
+      "sha256": "d9d9e6e64e833e68e59930618b7b0a09d6863916d56baa6542298821d435fb32"
+    }
+  ],
+  "near_duplicates": [
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (118).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (10).jpg",
+      "hamming_distance": 0,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (18).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (142).jpg",
+      "hamming_distance": 0,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (19).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (173).jpg",
+      "hamming_distance": 0,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (2).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (153).jpg",
+      "hamming_distance": 0,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (21).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (170).jpg",
+      "hamming_distance": 1,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (299).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (183).jpg",
+      "hamming_distance": 1,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (3).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (134).jpg",
+      "hamming_distance": 0,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (4).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (133).jpg",
+      "hamming_distance": 0,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (5).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (132).jpg",
+      "hamming_distance": 0,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (6).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (135).jpg",
+      "hamming_distance": 0,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (79).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (156).jpg",
+      "hamming_distance": 1,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (8).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (136).jpg",
+      "hamming_distance": 1,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (9).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (137).jpg",
+      "hamming_distance": 0,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (98).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (183).jpg",
+      "hamming_distance": 2,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 142142_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 104910_cropped.png",
+      "hamming_distance": 2,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 145505_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 145404_cropped.png",
+      "hamming_distance": 0,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-25 123230_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-25 123146_cropped.png",
+      "hamming_distance": 2,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-25 124942_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-25 124932_cropped.png",
+      "hamming_distance": 0,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-25 143534_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 111611_cropped.png",
+      "hamming_distance": 0,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-25 150958_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (89).jpg",
+      "hamming_distance": 2,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-25 151006_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (89).jpg",
+      "hamming_distance": 2,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-29 100357_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-25 150449_cropped.png",
+      "hamming_distance": 0,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-29 120532_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 111555_cropped.png",
+      "hamming_distance": 2,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-29 120626_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 111555_cropped.png",
+      "hamming_distance": 2,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-09-06 121517_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-09-06 121511_cropped.png",
+      "hamming_distance": 0,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-09-28 144947_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-09-28 142857_cropped.png",
+      "hamming_distance": 0,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2026-09-28 144954_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-09-28 142902_cropped.png",
+      "hamming_distance": 1,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Fracture\\Screenshot 2203-05-19 12131112_cropped (18).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (299).jpg",
+      "hamming_distance": 2,
+      "class": "Fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 104935_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (141).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (48).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (164).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (299).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (195).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (35).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (208).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (108).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (221).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (305).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (247).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (25).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (253).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2203-05-19 12131112_cropped (3).jpg",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (266).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (123).jpg",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (314).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (208).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (334).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (108).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (351).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (208).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (381).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (164).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (383).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (131).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (403).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (261).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (422).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (299).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (432).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (99).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (441).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (465).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (183).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (475).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (183).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (482).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (131).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (49).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2203-05-19 12131112_cropped (19).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (517).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (462).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (562).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (575).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (131).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (577).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (531).jpg",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (582).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (141).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (594).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (28).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (598).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (148).jpg",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (617).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (162).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (618).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (38).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (623).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (630).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (582).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (644).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (131).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (645).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (32).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (651).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (183).jpg",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (657).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (530).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (665).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (65).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (695).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (282).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (705).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (706).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (707).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (352).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (708).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (522).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (717).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (561).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (728).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (40).jpg",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (735).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (160).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (756).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (789).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (107).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (791).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (575).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (816).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (339).jpg",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (822).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (531).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (823).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (48).jpg",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (824).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (263).jpg",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (846).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (640).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (863).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (12).jpg",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (865).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (211).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (869).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (434).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (879).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (352).jpg",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (885).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (362).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (886).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (11).jpg",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (887).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (901).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (903).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (32).jpg",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (904).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (808).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (907).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (28).jpg",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (908).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (26).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (916).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (681).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (917).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (26).jpg",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (933).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (7).jpg",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (942).jpg",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2203-05-19 12131112_cropped (2).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (943).jpg",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (20).jpg",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 124546_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 104910_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 131021_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-25 120841_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 132254_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 115420_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 132533_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 132439_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 102208_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 124546_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 104232_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 104327_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 104719_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 110646_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 104935_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 111346_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 112055_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 112704_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-25 123101_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 113207_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124808_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 115147_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 121011_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 123208_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 124506_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 125210_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 125434_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 130245_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 130345_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 120850_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 141502_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 125500_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 143840_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 104110_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 104102_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 105532_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 110150_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 110930_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 104910_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 111230_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 113047_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 113034_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 113506_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 113419_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 115038_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 104910_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 120546_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 121322_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 123208_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 121506_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 114105_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 121637_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 121213_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 121803_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 115004_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 122102_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 122056_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 122112_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 122156_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 114756_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 122236_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 122316_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 114105_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 122330_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 121522_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 122507_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 104935_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 123655_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-25 145808_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 124238_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 124322_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 124558_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 122251_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 125210_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 125307_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 125436_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 125802_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 121431_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 130228_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 122251_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 130250_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 142520_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 111611_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 142856_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 143505_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 143905_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 144343_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 144745_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 104910_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 144957_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 145022_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (901).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 145135_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 145201_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 145343_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 150011_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 124546_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 150217_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 150610_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 102417_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 100530_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 125757_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 100835_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 112729_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 100937_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 101639_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (901).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 101933_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 120850_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 102039_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 102557_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-25 120841_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 102923_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 125757_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 103003_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 103011_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 144047_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 103357_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 103453_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 103550_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (261).jpg",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 104014_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 110141_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 143741_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 113639_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 105644_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 113800_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (901).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 113950_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 125500_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 113957_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 111611_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 114051_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 111611_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 114309_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 114201_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 115654_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 110203_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 120439_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 120446_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 110203_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 120453_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 110219_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 121523_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 121515_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 122548_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 122658_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 125500_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 111646_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-09-06 112705_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 113043_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 111646_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 114913_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 112227_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 114919_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 112233_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 120213_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 113043_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 122749_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 122743_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 123356_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 115043_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 124023_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 113419_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 124648_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 120213_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 124735_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 123115_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 125016_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 115043_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 125033_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 124536_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 130908_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 125537_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 131419_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 112313_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 132223_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 123718_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 133721_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 124208_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 134752_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 120213_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 142713_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 112307_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 142740_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 130714_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 142744_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 141951_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 142820_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 122555_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 142825_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 135048_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 142919_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 115043_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 143021_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 141516_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 143028_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 141523_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 143803_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 135910_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 143809_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 140411_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 144126_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 123356_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 144924_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 102510_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 144929_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 142740_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 145914_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-06 133721_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 125615_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 121803_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 130021_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 102923_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 130253_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-19 123355_cropped (756).jpg",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 131014_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 142142_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 133103_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 110150_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 134816_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 111611_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 134905_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 135934_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 140921_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 143812_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 141447_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-09-28 144016_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 141602_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (89).jpg",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 142321_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 135808_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 142449_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 142355_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 142807_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 110634_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 143216_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 140640_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 143221_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 140644_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 143242_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 140712_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 143245_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 140717_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 143305_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 140750_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 143310_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 140755_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 143334_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 140853_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 143425_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 140921_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 143429_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 140926_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 143816_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 141149_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 143821_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 141153_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 143851_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 141252_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 143921_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 141339_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144110_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 141505_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144114_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 141512_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144140_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (89).jpg",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144144_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 141607_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144330_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 141821_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144345_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 141826_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144429_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 141859_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144438_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 141905_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144459_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 141929_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144506_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 141937_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144538_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 142011_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144626_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 142044_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144637_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 142051_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144642_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 142055_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144647_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 142100_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144728_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 135808_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144733_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 142326_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144755_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 142355_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144802_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 142454_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144844_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 142640_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144854_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 142645_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144916_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 142704_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 144922_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 142708_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 150336_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 1,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 150523_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 0,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 151356_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 151335_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 153245_cropped.png",
+      "file_b": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-21 104719_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    },
+    {
+      "file_a": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-09-28 153611_cropped.png",
+      "file_b": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-21 124919_cropped.png",
+      "hamming_distance": 2,
+      "class": "Non-fractured"
+    }
+  ]
+}

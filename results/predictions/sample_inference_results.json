@@ -1,0 +1,54 @@
+[
+  {
+    "sample_name": "Fractured_Sample_1",
+    "filepath": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-19 12131122_cropped (285).jpg",
+    "ground_truth": "Fractured",
+    "prediction": "FRACTURED",
+    "fracture_probability": "99.54%",
+    "decision_threshold": "0.45",
+    "confidence": "100.00%",
+    "anatomy": "Full-Image Fallback",
+    "detector_confidence": "0.00%",
+    "fallback_active": true,
+    "diagnosis_plot": "results/predictions/Fractured_Sample_1_diagnosis.png"
+  },
+  {
+    "sample_name": "Fractured_Sample_2",
+    "filepath": "Dataset\\Dataset\\Fracture\\Screenshot 2026-05-25 122858_cropped.png",
+    "ground_truth": "Fractured",
+    "prediction": "NON-FRACTURED",
+    "fracture_probability": "12.18%",
+    "decision_threshold": "0.45",
+    "confidence": "100.00%",
+    "anatomy": "Arm",
+    "detector_confidence": "82.01%",
+    "fallback_active": false,
+    "diagnosis_plot": "results/predictions/Fractured_Sample_2_diagnosis.png"
+  },
+  {
+    "sample_name": "Non_Fractured_Sample_1",
+    "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-29 113957_cropped.png",
+    "ground_truth": "Non-fractured",
+    "prediction": "NON-FRACTURED",
+    "fracture_probability": "30.90%",
+    "decision_threshold": "0.45",
+    "confidence": "100.00%",
+    "anatomy": "Spine",
+    "detector_confidence": "40.54%",
+    "fallback_active": false,
+    "diagnosis_plot": "results/predictions/Non_Fractured_Sample_1_diagnosis.png"
+  },
+  {
+    "sample_name": "Non_Fractured_Sample_2",
+    "filepath": "Dataset\\Dataset\\Non fracture\\Screenshot 2026-05-25 145941_cropped.png",
+    "ground_truth": "Non-fractured",
+    "prediction": "NON-FRACTURED",
+    "fracture_probability": "0.89%",
+    "decision_threshold": "0.45",
+    "confidence": "100.00%",
+    "anatomy": "Spine",
+    "detector_confidence": "46.78%",
+    "fallback_active": false,
+    "diagnosis_plot": "results/predictions/Non_Fractured_Sample_2_diagnosis.png"
+  }
+]

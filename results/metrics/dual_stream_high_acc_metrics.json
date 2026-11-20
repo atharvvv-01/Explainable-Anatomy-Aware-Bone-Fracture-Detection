@@ -1,0 +1,20 @@
+{
+  "classification_threshold": 0.49,
+  "accuracy": 0.8855,
+  "fracture_recall_sensitivity": 0.61,
+  "fracture_precision": 0.8133,
+  "fracture_f1": 0.6971,
+  "non_fracture_recall_specificity": 0.9614,
+  "non_fracture_precision": 0.8995,
+  "non_fracture_f1": 0.9294,
+  "macro_f1": 0.8133,
+  "weighted_f1": 0.8793,
+  "roc_auc": 0.8833,
+  "pr_auc": 0.8032,
+  "confusion_matrix": {
+    "true_negatives": 349,
+    "false_positives": 14,
+    "false_negatives": 39,
+    "true_positives": 61
+  }
+}

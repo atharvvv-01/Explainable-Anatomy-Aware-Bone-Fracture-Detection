@@ -1,0 +1,36 @@
+{
+  "architecture": "EfficientNet-B3 Multi-Model Anatomy-Aware Fusion Ensemble",
+  "train_accuracy": 0.9825,
+  "validation_accuracy": 0.9503,
+  "accuracy": 0.9503,
+  "classification_threshold": 0.38,
+  "fracture_recall_sensitivity": 0.86,
+  "fracture_precision": 0.9053,
+  "fracture_f1": 0.8821,
+  "non_fracture_recall_specificity": 0.9752,
+  "non_fracture_precision": 0.962,
+  "non_fracture_f1": 0.9685,
+  "macro_f1": 0.9253,
+  "weighted_f1": 0.9503,
+  "roc_auc": 0.9424,
+  "pr_auc": 0.8779,
+  "confusion_matrix": {
+    "true_negatives": 354,
+    "false_positives": 9,
+    "false_negatives": 14,
+    "true_positives": 86
+  },
+  "validation_metrics": {
+    "validation_accuracy": 0.9503,
+    "validation_recall": 0.9,
+    "validation_precision": 0.8738,
+    "validation_f1": 0.8867,
+    "validation_roc_auc": 0.9422,
+    "confusion_matrix": {
+      "true_negatives": 350,
+      "false_positives": 13,
+      "false_negatives": 10,
+      "true_positives": 90
+    }
+  }
+}
